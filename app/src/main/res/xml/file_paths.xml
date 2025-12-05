@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- FOTOS: carpeta de la app en Pictures -->
+    <external-files-path
+        name="images"
+        path="Pictures/" />
+
+    <!-- (Opcional) PDFs en /Download por si usas FileProvider allí -->
+    <external-path
+        name="downloads"
+        path="Download/" />
+
+</paths>
